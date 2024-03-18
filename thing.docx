@@ -3,3 +3,5 @@ B: Dancs Levente
 
 A: git add .
 A: git commit -m "thing"
+
+B: git commit -m "B változtatás"
